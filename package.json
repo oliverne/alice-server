@@ -1,5 +1,5 @@
 {
-  "name": "alice-server",
+  "name": "express-sample-server",
   "version": "1.0.0",
   "description": "Just sample Server",
   "main": "src/main.js",
